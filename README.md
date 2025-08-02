@@ -26,4 +26,4 @@ This is a full-stack expense tracker web application built using Django. It allo
 6. Visit: `http://127.0.0.1:8000/`
 
 ## 📌 Author
-Omkar Dhanve
+Samruddhi Pardeshi
